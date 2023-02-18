@@ -79,12 +79,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'http://localhost/test_project/';
+$site_URL = 'http://localhost/vtigercrm/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = 'C:\xampp\htdocs\test_project/';
+$root_directory = 'C:\xampp\htdocs\vtigercrm/';
 
 // cache direcory path
 $cache_dir = 'cache/';
@@ -156,7 +156,7 @@ $display_empty_home_blocks = false;
 $disable_stats_tracking = false;
 
 // Generating Unique Application Key
-$application_unique_key = '86222308a4f3bc7b3de358af6ecf693f';
+$application_unique_key = '0466024c97f5b1b5aa7058ec82c3c94a';
 
 // trim descriptions, titles in listviews to this value
 $listview_max_textlength = 40;

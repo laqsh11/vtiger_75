@@ -1,0 +1,17 @@
+Traced on 2023-02-15 07:47:18
+FileAccessForInclusion - 
+C:\xampp\htdocs\vtigercrm\include\utils\CommonUtils.php::checkFileAccessForInclusion::388<br>
+C:\xampp\htdocs\vtigercrm\data\CRMEntity.php::checkFileAccessForInclusion::57<br>
+C:\xampp\htdocs\vtigercrm\include\Webservices\Utils.php::getInstance::214<br>
+C:\xampp\htdocs\vtigercrm\include\Webservices\VtigerCRMObjectMeta.php::vtws_getModuleInstance::42<br>
+C:\xampp\htdocs\vtigercrm\include\Webservices\VtigerModuleOperation.php::__construct::31<br>
+C:\xampp\htdocs\vtigercrm\include\Webservices\VtigerModuleOperation.php::getMetaInstance::19<br>
+C:\xampp\htdocs\vtigercrm\include\Webservices\Utils.php::__construct::462<br>
+C:\xampp\htdocs\vtigercrm\include\QueryGenerator\QueryGenerator.php::vtws_getModuleHandlerFromName::96<br>
+C:\xampp\htdocs\vtigercrm\include\QueryGenerator\QueryGenerator.php::getMeta::72<br>
+C:\xampp\htdocs\vtigercrm\include\QueryGenerator\EnhancedQueryGenerator.php::__construct::16<br>
+C:\xampp\htdocs\vtigercrm\modules\Vtiger\models\ListView.php::__construct::376<br>
+C:\xampp\htdocs\vtigercrm\modules\Vtiger\views\List.php::getInstance::56<br>
+C:\xampp\htdocs\vtigercrm\includes\main\WebUI.php::preProcess::76<br>
+C:\xampp\htdocs\vtigercrm\includes\main\WebUI.php::triggerPreProcess::214<br>
+C:\xampp\htdocs\vtigercrm\index.php::process::20<br>
